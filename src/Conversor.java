@@ -5,7 +5,6 @@ import java.util.Scanner;
         double celsius;
         double fahrenheit;
         double kelvin;
-        double temperatura;
 
     public void obterDados() {
 
