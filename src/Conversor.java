@@ -32,6 +32,6 @@ import java.util.Scanner;
 
         System.out.println(fahrenheit + "°F (Fahrenheit)");
 
-        System.out.println(kelvin + "K (Kelvin)");
+        System.out.println(kelvin + "°K (Kelvin)");
     }
 }
